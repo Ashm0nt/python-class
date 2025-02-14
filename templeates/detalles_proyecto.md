@@ -5,7 +5,7 @@ Fecha: [14-feb-2025]
 Participantes: 
 
 - [Ashley Yael Montiel Vargas]  <email:yaelmont@lcg.unam.mx>
-- Otro participante
+- [Pablo Salazar Méndez]. <pablosm@lcg.unam.mx>
 
 ## Descripción del Problema
 <!-- Puedes empezar con una introducción, luego la justificación y plantear el problema. -->
