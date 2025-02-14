@@ -1,14 +1,13 @@
 # [NOMBRE DEL PROYECTO]
 
-Fecha: [dd/mm/yyyy]
+Fecha: [14-feb-2025]
 
 Participantes: 
 
-- [nombre]  <email: > 
+- [Ashley Yael Montiel Vargas]  <email:yaelmont@lcg.unam.mx> 
 
 ## Descripción del Problema
 <!-- Puedes empezar con una introducción, luego la justificación y plantear el problema. -->
-
 
 
 ## Especificación de Requisitos
