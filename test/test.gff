@@ -1,0 +1,4 @@
+NC_000913.3	RefSeq	gene	190	255	.	+       .       ID=gene-b0001;Dbxref=ASAP:ABE-0000006,ECOCYC:EG11277,EcoGene:EG11277,GeneID:944742;Name=thrL;gbkey=Gene;gene=thrL;gene_biotype=protein_coding;gene_synonym=ECK0001;locus_tag=b0001
+NC_000913.3	RefSeq	CDS	190	255	.	+       0       ID=cds-NP_414542.1;Parent=gene-b0001;Dbxref=UniProtKB/Swiss-Prot:P0AD86,Genbank:NP_414542.1,ASAP:ABE-0000006,ECOCYC:EG11277,EcoGene:EG11277,GeneID:944742;Name=NP_414542.1;gbkey=CDS;gene=thrL;locus_tag=b0001;orig_transcript_id=gnl|b0001|mrna.b0001;product=thr operon leader peptide;protein_id=NP_414542.1;transl_table=11
+NC_000913.3	RefSeq	CDS	3734	5020	.	+       0       ID=cds-NP_414545.1;Parent=gene-b0004;Dbxref=UniProtKB/Swiss-Prot:P00934,Genbank:NP_414545.1,ASAP:ABE-0000012,ECOCYC:EG11000,EcoGene:EG11000,GeneID:945198;Name=NP_414545.1;gbkey=CDS;gene=thrC;locus_tag=b0004;orig_transcript_id=gnl|b0004|mrna.b0004;product=threonine synthase;protein_id=NP_414545.1;transl_table=11
+
